@@ -1,0 +1,14 @@
+final int SCREENX = 800;
+final int SCREENY = 500;
+final int BOXWIDTH = 50;
+final int PLAYERWIDTH = 50;
+final int PLAYERHEIGHT =20;
+final int ALIEN_WIDTH=50;
+final int ALIEN_HEIGHT=50;
+final int BULLETWIDTH = 3;
+final int BULLETHEIGHT = 6;
+final int MARGIN=10;
+final int BOMBWIDTH = 20;
+final int BOMBHEIGHT = 20;
+final int SHIELDWIDTH = 100;
+final int SHIELDHEIGHT = 10;
